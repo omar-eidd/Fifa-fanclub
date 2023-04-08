@@ -1,0 +1,24 @@
+ul{
+    list-style-type: none;
+    list-style: none; 
+    inherits:true; 
+   
+    }
+body{
+    
+    align-items:center;
+    text-align: center;
+    font-size: larger;
+    color: beige;
+    background-image: url(pedfat.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.s1{
+    font-size: larger;
+    border: 2px;
+    border-color: darkmagenta;
+    border-style: dashed;
+    background-color: red;
+}

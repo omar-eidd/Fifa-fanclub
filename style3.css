@@ -1,0 +1,28 @@
+body{
+    background-image:url(super.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+.j1{
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+    padding-top: 80px;
+    font-size:larger;
+}
+.j2{
+    font-size:medium;
+    font-family:'Times New Roman', Times, serif;
+     padding-top: 500px; 
+     float: top;
+     color:honeydew ;
+     margin: 20px;
+     
+}
+.mode1{
+    float: bottom;
+    height: 400px;
+    width: 600px;
+    align-items: center;
+  }
